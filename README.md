@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio (MERN Stack)</title>
 </head>
 <body>
 
@@ -217,7 +216,7 @@ node index.js
 <ul>
     <li><strong>Name:</strong> Surath Chowdhury</li>
     <li><strong>Email:</strong> surath172003@gmail.com</li>
-    <li><strong>LinkedIn:</strong><p>surath chowdhury</p></li>
+    <li><strong>LinkedIn:</strong>surath chowdhury</li>
 </ul>
 
 </body>
