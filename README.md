@@ -216,7 +216,7 @@ node index.js
 <ul>
     <li><strong>Name:</strong> Surath Chowdhury</li>
     <li><strong>Email:</strong> surath172003@gmail.com</li>
-    <li><strong>LinkedIn:</strong>surath chowdhury</li>
+    <li><strong>LinkedIn:</strong> surath chowdhury</li>
 </ul>
 
 </body>
